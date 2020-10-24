@@ -1,1 +1,2 @@
-# throw-paper-in-dustbin
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
